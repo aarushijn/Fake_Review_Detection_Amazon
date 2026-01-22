@@ -1,7 +1,3 @@
-# CSE504-Fake_Review_Detection
-This project is a part of the Information Retrieval course at IIIT Delhi and focuses on detecting fake reviews on online platforms. The objective is to identify and remove fake reviews to ensure fair competition and maintain user trust.
-To achieve fruitful results, we have utilized LSTM and BERT models, achieving an accuracy of 87% and 90%, respectively.
-
 ## Features
  - Machine Learning Approach: Develop a machine learning-based solution to detect fake reviews using a dataset of reviews collected from online platforms.
 
