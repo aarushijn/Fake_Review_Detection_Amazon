@@ -20,14 +20,3 @@
     cd data
     streamlit run changes.py
     streamlit run frontend.py
-    
-## Contributions
-We welcome contributions from the community to enhance the fake review detection system. If you have any ideas, bug fixes, or feature enhancements, please feel free to submit a pull request.
-
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
-
-## Contact
-If you have any questions or suggestions regarding the project, please contact us at shashank20119@iiitd.ac.in 
-
-Thank you for your interest in the Fake Review Detection project!
